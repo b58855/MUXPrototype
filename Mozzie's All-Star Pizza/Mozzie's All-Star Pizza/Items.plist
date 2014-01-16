@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>1Pizza</key>
+	<array>
+		<dict>
+			<key>Name</key>
+			<string>Veggies</string>
+			<key>Image</key>
+			<string>veggies.jpg</string>
+		</dict>
+		<dict>
+			<key>Image</key>
+			<string>customPizza.jpg</string>
+			<key>Name</key>
+			<string>Custom</string>
+		</dict>
+		<dict>
+			<key>Image</key>
+			<string>chickenfajita.jpg</string>
+			<key>Name</key>
+			<string>Chicken Fajita</string>
+		</dict>
+		<dict>
+			<key>Image</key>
+			<string>hawaiian.jpg</string>
+			<key>Name</key>
+			<string>Hawaiian</string>
+		</dict>
+		<dict>
+			<key>Image</key>
+			<string>meatLovers.jpg</string>
+			<key>Name</key>
+			<string>Meat Lovers</string>
+		</dict>
+		<dict>
+			<key>Image</key>
+			<string>sicillian.jpg</string>
+			<key>Name</key>
+			<string>Sicillian</string>
+		</dict>
+		<dict>
+			<key>Image</key>
+			<string>supremePizza.jpg</string>
+			<key>Name</key>
+			<string>Supreme</string>
+		</dict>
+	</array>
+	<key>2Sides</key>
+	<array>
+		<dict>
+			<key>Name</key>
+			<string>Cheese Dip</string>
+			<key>Image</key>
+			<string>cheeseDip.jpg</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Breadsticks</string>
+			<key>Image</key>
+			<string>breadsticks.jpg</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Cheesesticks</string>
+			<key>Image</key>
+			<string>CheeseSticks.jpg</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Garlic Bread</string>
+			<key>Image</key>
+			<string>Garlic Bread.jpg</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Pepperoni Breadsticks</string>
+			<key>Image</key>
+			<string>pepperonibreadsticks.jpg</string>
+		</dict>
+	</array>
+	<key>3Others</key>
+	<array>
+		<dict>
+			<key>Name</key>
+			<string>Hot Wings</string>
+			<key>Image</key>
+			<string>hotWings.jpg</string>
+		</dict>
+	</array>
+	<key>4Drinks</key>
+	<array>
+		<dict>
+			<key>Name</key>
+			<string>Pepsi</string>
+			<key>Image</key>
+			<string>Pepsi.jpg</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Diet Pepsi</string>
+			<key>Image</key>
+			<string>dietPepsi.jpg</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Mt Dew</string>
+			<key>Image</key>
+			<string>mountaindew.jpg</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Dr Pepper</string>
+			<key>Image</key>
+			<string>DrPepper.jpg</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Sierra Mist</string>
+			<key>Image</key>
+			<string>sierreMist.jpg</string>
+		</dict>
+	</array>
+</dict>
+</plist>
